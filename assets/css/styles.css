@@ -214,3 +214,22 @@ a{color:inherit;text-decoration:none}
   .about-strip-inner{grid-template-columns:1fr}
   .about-strip-caption{grid-column:span 1}
 }
+
+.social-feed-bg {
+  background: #0a0a0a;
+  padding: 5rem 0;
+}
+
+.social-feed-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.social-feed-cta {
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.social-feed-bg .display {
+  color: #fff;
+}
