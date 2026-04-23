@@ -216,8 +216,12 @@ a{color:inherit;text-decoration:none}
 }
 
 .social-feed-bg {
-  background: #0a0a0a;
+  background: #0a0a0a !important;
   padding: 5rem 0;
+}
+
+.social-feed-bg .display {
+  color: #fff;
 }
 
 .social-feed-header {
@@ -230,6 +234,6 @@ a{color:inherit;text-decoration:none}
   margin-top: 2.5rem;
 }
 
-.social-feed-bg .display {
-  color: #fff;
+.social-feed-bg .wrap {
+  background: #0a0a0a;
 }
